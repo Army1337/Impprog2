@@ -1,1 +1,0 @@
- gcc -ansi -pedantic -Wall -Wextra -o fahr.exe fahr.c
